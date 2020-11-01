@@ -1,3 +1,3 @@
-This is a subset of the standard library header `<type_traits>` to support C++ libraries written to AVR8 and compiled without the `libstdc++`. 
+This is a subset of the standard library header ~<type_traits>~ to support C++ libraries written to AVR8 and compiled without the ~libstdc++~. 
 
-*Please, don't use this project if you have access to a compiler that uses the freestanding implementation of the `libstdc++`.*
+*Please, don't use this project if you have access to a compiler that uses the freestanding implementation of the ~libstdc++~.*
